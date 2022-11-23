@@ -1,1 +1,1 @@
-# retos-typescript
+# retos-JS-vanilla
