@@ -18,7 +18,7 @@ console.log(bienvenido('Sergio'));
 
 ///////// TERCER EJERCICIO
 
-//const nombre = prompt('¿Cual es tu nombre?');
+// const nombre = prompt('¿Cual es tu nombre?');
 //console.log(bienvenido(nombre));
 
 //////// CUARTO EJERCICIO
@@ -111,8 +111,31 @@ console.log(bienvenido('Sergio'));
 // }
 
 /////////////// DECIMOTERCERO EJERCICIO
-const num1 = parseInt(prompt('Dime el primer número'));
-const operador = prompt('Dime el operador a utilizar (+ , - , * , / , ^ , %');
-const num2 = parseInt(prompt('Dime el segundo número'));
+// const num1 = parseInt(prompt('Dime el primer número'));
+// const operador = prompt('Dime el operador a utilizar (+ , - , * , / , ^ , %');
+// const num2 = parseInt(prompt('Dime el segundo número'));
 
-const calculo = (num1, operador, num2) => {};
+// const calculo = (num1, operador, num2) => {
+//   switch (operador) {
+//     case '+':
+//       alert(`El resultado es ${num1 + num2}`);
+//       break;
+//     case '-':
+//       alert(`El resultado es ${num1 - num2}`);
+//       break;
+//     case '*':
+//       alert(`El resultado es ${num1 * num2}`);
+//       break;
+//     case '/':
+//       alert(`El resultado es ${num1 / num2}`);
+//       break;
+//     case '^':
+//       alert(`El resultado es ${Math.pow(num1, num2)}`);
+//       break;
+//     case '%':
+//       alert(`El resultado es ${num1 % num2}`);
+//       break;
+//   }
+// };
+
+// calculo(num1, operador, num2);
